@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TrendingRepos.iml" filepath="$PROJECT_DIR$/TrendingRepos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/TrendingRepos-app.iml" filepath="$PROJECT_DIR$/app/TrendingRepos-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/codeChallenge-master.iml" filepath="$PROJECT_DIR$/codeChallenge-master.iml" />
     </modules>
   </component>
 </project>
